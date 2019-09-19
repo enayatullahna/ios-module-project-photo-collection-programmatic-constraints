@@ -12,5 +12,16 @@ class PhotoCollectionViewCell: UICollectionViewCell {
 
     var photo: Photo?
     
+    private var imageView: UIImageView!
+    private var titleLabel: UILabel!
+    
+    private func updateViews() {
+        
+    }
+    
+    private func setUpSubviews() {
+        
+    }
+    
     
 }
